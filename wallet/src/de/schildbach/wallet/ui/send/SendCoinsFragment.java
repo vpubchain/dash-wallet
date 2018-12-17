@@ -1071,7 +1071,9 @@ public final class SendCoinsFragment extends Fragment {
 
         if(usingInstantSend)
             sendRequest.ensureMinRequiredFee = true;
-        else sendRequest.ensureMinRequiredFee = false;
+        else if(Constants.ENABLE_ZERO_FEES && feeCategory == FeeCategory.ECONOMIC || feeCategory == FeeCategory.ZERO)
+            sendRequest.ensureMinRequiredFee = false;  //Allow for below the reference fee transactions
+        else sendRequest.ensureMinRequiredFee = true;
 
         new SendCoinsOfflineTask(wallet, backgroundHandler) {
             @Override
@@ -1277,7 +1279,9 @@ public final class SendCoinsFragment extends Fragment {
 
                     if(sendRequest.useInstantSend)
                         sendRequest.ensureMinRequiredFee = true;
-                    else sendRequest.ensureMinRequiredFee = false;
+                    else if(Constants.ENABLE_ZERO_FEES && feeCategory == FeeCategory.ECONOMIC || feeCategory == FeeCategory.ZERO)
+                        sendRequest.ensureMinRequiredFee = false;  //Allow for below the reference fee transactions
+                    else sendRequest.ensureMinRequiredFee = true;
 
                     wallet.completeTx(sendRequest);
                     dryrunTransaction = sendRequest.tx;
