@@ -1,23 +1,23 @@
 Používanie na vlastné riziko! (Vyžaduje Android 4 alebo novší
 
-<b>Majte Dash neustále pri sebe vo svojom vrecku!</b> Naskenujte QR kód a rýchlo zaplaťte. Ako obchodník obdržíte platby takmer okamžite a spoľahlivo. Elektronická peňaženka Dash je prvá mobilná Dash aplikácia a pravdepodobne tiež tou najnebezpečnejšou.
+<b>Majte Vpub neustále pri sebe vo svojom vrecku!</b> Naskenujte QR kód a rýchlo zaplaťte. Ako obchodník obdržíte platby takmer okamžite a spoľahlivo. Elektronická peňaženka Vpub je prvá mobilná Vpub aplikácia a pravdepodobne tiež tou najnebezpečnejšou.
 
 <b>VLASTNOSTI</b>
 
 • Nie je potrebná žiadna registrácia, webová služba ani cloud! Peňaženka je decentralizovaná a funguje na báze peer-to-peer siete.
-• Dash si môžete zobraziť buď ako DASH, mDASH alebo µDASH.
+• Vpub si môžete zobraziť buď ako VP, mVP alebo µVP.
 • Konverzia na bežné peniaze alebo opačne.
-• Dash je možné posielať aj prijímať pomocou NFC, QR kódmi alebo Dash URL.
-• Adresár pre často používané Dash adresy.
+• Vpub je možné posielať aj prijímať pomocou NFC, QR kódmi alebo Vpub URL.
+• Adresár pre často používané Vpub adresy.
 • Keď ste offline, môžete stále zaplatiť cez Bluetooth.
 • Systémové oznámenie pri obdržaní mincí.
 • Výber z papierových peňaženiek (napr. tých, ktoré sú uložené offline).
-• Widget aplikácia pro stav Dash účtu.
+• Widget aplikácia pro stav Vpub účtu.
 
 
 <b>ZAPOJTE SA</b>
 
-Peňaženka Dash má <b>otvorený zdrojový kód</b> a je to <b>bezplatný softwér</b>. Licencia: GPLv3
+Peňaženka Vpub má <b>otvorený zdrojový kód</b> a je to <b>bezplatný softwér</b>. Licencia: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Náš zdrojový kód je dostupný na GitHube:
@@ -26,7 +26,7 @@ https://github.com/HashEngineering/dash-wallet
 Všetky preklady prebiehajú cez Transifex:
 https://www.transifex.com/dash/dash-wallet/
 
-O Dash sa môžete dozvedieť viac na
+O Vpub sa môžete dozvedieť viac na
 https://www.dash.org/
 
 <b>DOPORUČENIA</b>

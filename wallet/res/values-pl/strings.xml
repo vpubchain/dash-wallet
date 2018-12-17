@@ -12,7 +12,7 @@
     <string name="blockchain_state_progress_stalled">Synchronizacja wstrzymana</string>
     <string name="blockchain_state_progress_problem_storage">Synchronizowanie: Problem z pamięcią</string>
     <string name="blockchain_state_progress_problem_network">Synchronizowanie: Problem z siecią</string>
-    <string name="wallet_address_fragment_clipboard_msg">Adres Dash został skopiowany do schowka.</string>
+    <string name="wallet_address_fragment_clipboard_msg">Adres Vpub został skopiowany do schowka.</string>
     <string name="wallet_address_dialog_fragment_hint">Aby chronić twoją prywatność, twój adres zmieni się, gdy tylko otrzyma płatność.</string>
     <string name="wallet_balance_fragment_too_much">Ta kwota jest chyba zbyt duża by nosić ją w kieszeni. Proszę przenieś część środków w bezpieczniejsze miejsce.</string>
     <string name="wallet_balance_fragment_replaying">Saldo nie jest dostępne w trakcie odtwarzania.</string>
@@ -41,19 +41,19 @@
     <string name="wallet_options_encrypt_keys_change">Zmień PIN do wydawania</string>
     <string name="wallet_options_safety">Wskazówki bezpieczeństwa</string>
     <string name="wallet_options_donate">Podaruj</string>
-    <string name="wallet_donate_address_label">Dotacja dla Dash Wallet</string>
+    <string name="wallet_donate_address_label">Dotacja dla Vpub Wallet</string>
     <string name="wallet_low_storage_dialog_title">Mało przestrzeni w pamięci wewnętrznej!</string>
-    <string name="wallet_low_storage_dialog_msg">Portfel Dash używa wewnętrznej pamięci do przechowywania transakcji i bloków. Jeśli zabraknie miejsca na twoim urządzeniu, portfel przestanie pracować i twoje monety będą zagrożone!\n\n Czy chcesz otworzyć Menadżer Aplikacji w celu odinstalowania niepotrzebnych programów?</string>
+    <string name="wallet_low_storage_dialog_msg">Portfel Vpub używa wewnętrznej pamięci do przechowywania transakcji i bloków. Jeśli zabraknie miejsca na twoim urządzeniu, portfel przestanie pracować i twoje monety będą zagrożone!\n\n Czy chcesz otworzyć Menadżer Aplikacji w celu odinstalowania niepotrzebnych programów?</string>
     <string name="wallet_low_storage_dialog_button_apps">Zarządzaj aplikacjami</string>
     <string name="wallet_timeskew_dialog_title">Sprawdź datę i ustawienia czasu</string>
-    <string name="wallet_timeskew_dialog_msg">Czas na twoim urządzeniu jest opóźniony o %d minuty. Z tego powodu prawdopodobnie nie będziesz mógł wysyłać i odbierać Dash.\\n\\nSprawdź i w razie konieczności popraw ustawienia daty, godziny i strefy czasowej.</string>
+    <string name="wallet_timeskew_dialog_msg">Czas na twoim urządzeniu jest opóźniony o %d minuty. Z tego powodu prawdopodobnie nie będziesz mógł wysyłać i odbierać Vpub.\\n\\nSprawdź i w razie konieczności popraw ustawienia daty, godziny i strefy czasowej.</string>
     <string name="wallet_version_dialog_title">Dostępna jest nowa wersja!</string>
     <string name="wallet_version_dialog_msg">W tej wersji poprawiono ważne błędy. Więcej szczegółów znajdziesz w dzienniku zmian na Google Play.</string>
     <string name="wallet_version_dialog_msg_deprecated">Jeśli nie widzisz uaktualnienia, prawdopodobnie znaczy to, że Twoja wersja Androida nie jest już wspierana.</string>
     <string name="wallet_version_dialog_button_market">Google Play</string>
     <string name="wallet_version_dialog_button_binary">Pobierz</string>
     <string name="wallet_old_sdk_dialog_title">Ta wersja Androida jest przestarzała </string>
-    <string name="wallet_old_sdk_dialog_message">Istnieje możliwość, że jedno z następnych wydań portfela Dash Wallet nie będzie już wspierało twojego urządzenia. W niektórych wypadkach wydanie monet na tym urządzeniu będzie utrudnione.\n\n Zaleca się w najbliższym czasie przelać swoje monety. Chyba, że wiesz co robisz.</string>
+    <string name="wallet_old_sdk_dialog_message">Istnieje możliwość, że jedno z następnych wydań portfela Vpub Wallet nie będzie już wspierało twojego urządzenia. W niektórych wypadkach wydanie monet na tym urządzeniu będzie utrudnione.\n\n Zaleca się w najbliższym czasie przelać swoje monety. Chyba, że wiesz co robisz.</string>
     <string name="send_coins_activity_title">Wyślij Dashe</string>
     <string name="send_coins_fragment_request_payment_request_progress">Pobieranie podpisu z %s...</string>
     <string name="send_coins_fragment_request_payment_request_failed_title">Pobieranie podpisu nie powiodło się</string>
@@ -62,7 +62,7 @@
     <string name="send_coins_fragment_payee_verified_by_unknown">nieznany</string>
     <string name="send_coins_fragment_receiving_address_label">Zapłać dla</string>
     <string name="send_coins_fragment_receiving_address_hint">wpisz adres lub nazwę</string>
-    <string name="send_coins_fragment_receiving_address_error">Nieprawidłowy adres Dash!</string>
+    <string name="send_coins_fragment_receiving_address_error">Nieprawidłowy adres Vpub!</string>
     <string name="send_coins_fragment_receiving_address_own">Zamierzasz wysłać do siebie!</string>
     <string name="send_coins_fragment_receiving_address_complex">adres\\nzłożony</string>
     <string name="send_coins_fragment_pending">(%s oczekuję na potwierdzenie)</string>
@@ -129,9 +129,9 @@
     <string name="request_coins_fragment_accept_bluetooth_payment">Akceptuj płatności przez Bluetooth aby zwiększyć niezawodność</string>
     <string name="request_coins_fragment_initiate_request_qr">Niech nadawca zeskanuje ten kod QR</string>
     <string name="request_coins_fragment_initiate_request_nfc">Lub zbliż do siebie urządzenia z aktywnym NFC</string>
-    <string name="request_coins_clipboard_msg">Prośba o Dash została skopiowana do schowka</string>
+    <string name="request_coins_clipboard_msg">Prośba o Vpub została skopiowana do schowka</string>
     <string name="request_coins_share_dialog_title">Udostępnij prośbę o Dashy…</string>
-    <string name="request_coins_no_local_app_msg">Nie znaleziono innej aplikacji Dash</string>
+    <string name="request_coins_no_local_app_msg">Nie znaleziono innej aplikacji Vpub</string>
     <string name="request_coins_options_local_app_title">Żądanie z lokalnej aplikacji</string>
     <string name="address_book_activity_title">Książka adresowa</string>
     <string name="address_book_list_receiving_title">Twoje adresy</string>
@@ -162,7 +162,7 @@
     <string name="transaction_row_message_purpose_raise_fee">Ta transakcja zwiększa opłatę sieciową wcześniejszej płatności.</string>
     <string name="transaction_row_message_own_unbroadcasted">Ta płatność nie została jeszcze przesłana.</string>
     <string name="transaction_row_message_received_direct">Ta płatność została otrzymana bezpośrednio. Istnieje ryzyko, że środki nigdy nie będą możliwe do wydania.</string>
-    <string name="transaction_row_message_received_unconfirmed_delayed">Potwierdzenie tej transakcji jest opóźnione, prawdopodobnie ze względu na przeładowanie sieci Dash.</string>
+    <string name="transaction_row_message_received_unconfirmed_delayed">Potwierdzenie tej transakcji jest opóźnione, prawdopodobnie ze względu na przeładowanie sieci Vpub.</string>
     <string name="transaction_row_message_received_unconfirmed_unlocked">Ta płatność może być wykonana bez potwierdzenia.</string>
     <string name="transaction_row_message_received_in_conflict">Ta płatność wyróżnia się zwiększonym ryzykiem odwołania przez nadawcę. Jeśli możesz, poczekaj na jej zatwierdzenia.</string>
     <string name="transaction_row_message_received_dead">Ta płatność została cofnięta przez nadawcę.</string>
@@ -202,8 +202,8 @@
     <string name="export_keys_dialog_success">Twoje klucze prywatne zostały eksportowane do\n\n%s\n\nZabezpiecz je wraz z hasłem!\n\nCzy chcesz zabezpieczyć Twoje klucze za pomocą tej aplikacji?</string>
     <string name="export_keys_dialog_failure">Twoje prywatne klucze nie mogły być wyeksportowane:\n%s</string>
     <string name="export_keys_dialog_button_archive">Zrób kopię zapasową</string>
-    <string name="export_keys_dialog_mail_subject">Przechowalnia kluczy prywatnych Dash Wallet</string>
-    <string name="export_keys_dialog_mail_text">Załączony zaszyfrowany plik zawiera klucze prywatne Dash i powinien być przechowywany w bezpiecznym miejscu przez cały czas. Nie zapomnij szyfrującego hasła!</string>
+    <string name="export_keys_dialog_mail_subject">Przechowalnia kluczy prywatnych Vpub Wallet</string>
+    <string name="export_keys_dialog_mail_text">Załączony zaszyfrowany plik zawiera klucze prywatne Vpub i powinien być przechowywany w bezpiecznym miejscu przez cały czas. Nie zapomnij szyfrującego hasła!</string>
     <string name="export_keys_dialog_mail_intent_chooser">Zrób kopię zapasową portfela przy użyciu… </string>
     <string name="export_keys_dialog_mail_intent_failed">Wykonanie kopii zapasowej portfela nie powiodło się.</string>
     <string name="import_export_keys_dialog_password">hasło</string>
@@ -211,7 +211,7 @@
     <string name="backup_wallet_dialog_password_mismatch">niedopasowanie!</string>
     <string name="import_export_keys_dialog_show">Wyświetl hasło</string>
     <string name="import_export_keys_dialog_failure_title">Błąd</string>
-    <string name="import_keys_intent_filter_action">Importowanie kluczy Dash</string>
+    <string name="import_keys_intent_filter_action">Importowanie kluczy Vpub</string>
     <string name="encrypt_keys_dialog_title">PIN do wydawania</string>
     <string name="encrypt_keys_dialog_message">Wydawanie z twojego portfela bedzie chronione wybranym PINem.</string>
     <string name="encrypt_keys_dialog_warning">WAŻNE: Musisz zapamiętać twój PIN! Nie używaj znanych numerow (jak daty urodzin)</string>
@@ -230,8 +230,8 @@
     <string name="scan_camera_permission_dialog_message">Aby skanować kody QR, wymagane jest udzielenie pozwolenia na użycie kamery.</string>
     <string name="input_parser_io_error">Nie mogę czytać danych:\\n%s</string>
     <string name="input_parser_cannot_classify">Nie udało się sklasyfikować danych wejściowych:\n%s</string>
-    <string name="input_parser_invalid_bitcoin_uri">Niepoprawny URI Dash:\n%s</string>
-    <string name="input_parser_invalid_address">Otrzymano niepoprawny adres Dash!\n(Pomylono Testnet z Prodnet?)</string>
+    <string name="input_parser_invalid_bitcoin_uri">Niepoprawny URI Vpub:\n%s</string>
+    <string name="input_parser_invalid_address">Otrzymano niepoprawny adres Vpub!\n(Pomylono Testnet z Prodnet?)</string>
     <string name="input_parser_unverifyable_paymentrequest">Nie mogę zweryfikować rzadanie płatności:\\n%s</string>
     <string name="input_parser_invalid_paymentrequest">Niewłaściwe rzadanie płatności:\\n%s</string>
     <string name="input_parser_invalid_transaction">Transakcja nie powiodła się:\n%s</string>
@@ -240,11 +240,11 @@
     <string name="preferences_category_labs">Eksperymentalne</string>
     <string name="preferences_precision_title">Waluta i precyzja</string>
     <string name="preferences_precision_summary">Jednostka w której ma być podawana ilość. Nie wpływa na obliczenia.</string>
-    <string name="preferences_precision_labels_8">DASH 8 miejsc po przecinku</string>
-    <string name="preferences_precision_labels_6">DASH, 6 miejsc po przecinku</string>
-    <string name="preferences_precision_labels_4">DASH, 4 miejsc po przecinku</string>
-    <string name="preferences_precision_labels_2_3">mDASH, 2 miejsca po przecinku</string>
-    <string name="preferences_precision_labels_0_6">µDASH, bez miejsc po przecinku</string>
+    <string name="preferences_precision_labels_8">VP 8 miejsc po przecinku</string>
+    <string name="preferences_precision_labels_6">VP, 6 miejsc po przecinku</string>
+    <string name="preferences_precision_labels_4">VP, 4 miejsc po przecinku</string>
+    <string name="preferences_precision_labels_2_3">mVP, 2 miejsca po przecinku</string>
+    <string name="preferences_precision_labels_0_6">µVP, bez miejsc po przecinku</string>
     <string name="preferences_own_name_title">Podpis</string>
     <string name="preferences_own_name_summary">Twój podpis. Będzie on dołączany do żądań płatności.</string>
     <string name="preferences_send_coins_autoclose_title">Okno szybkiej płatności</string>
@@ -292,7 +292,7 @@
     <string name="about_license_title">Licencja</string>
     <string name="about_source_title">Kod źródłowy</string>
     <string name="about_category_credits">Ta aplikacja używa...</string>
-    <string name="about_credits_bitcoinj_title">dashj %s, implementacja protokołu Dash</string>
+    <string name="about_credits_bitcoinj_title">dashj %s, implementacja protokołu Vpub</string>
     <string name="about_credits_zxing_title">ZXing, biblioteka do przetwarzania kodów QR</string>
     <string name="about_credits_icon_title">Ta aplikacja używa ikony stworzonej przez \'bitboy\'</string>
     <string name="about_credits_scrypt_title">Scrypt, zaimplementowany przez Will Glozer i Colin Percival</string>
@@ -304,12 +304,12 @@
     <string name="about_community_googleplus_summary">Porozmawiajmy o aplikacji</string>
     <string name="notification_coins_received_msg">Otrzymano %s </string>
     <string name="notification_peers_connected_msg">%d połączonych partnerów</string>
-    <string name="notification_inactivity_title">W twoim portfelu nadal są niewykorzystane Dash!</string>
-    <string name="notification_inactivity_message">Pamiętaj! Twoje saldo w wysokości %s zostanie utracone jeśli odinstalujesz Dash Wallet bez wypłacenia wszystkich środków.</string>
-    <string name="notification_inactivity_message_donate">Jeśli nie zależy ci na pozostałych środkach, zawsze możesz przekazać je twórcą Dash Wallet.</string>
+    <string name="notification_inactivity_title">W twoim portfelu nadal są niewykorzystane Vpub!</string>
+    <string name="notification_inactivity_message">Pamiętaj! Twoje saldo w wysokości %s zostanie utracone jeśli odinstalujesz Vpub Wallet bez wypłacenia wszystkich środków.</string>
+    <string name="notification_inactivity_message_donate">Jeśli nie zależy ci na pozostałych środkach, zawsze możesz przekazać je twórcą Vpub Wallet.</string>
     <string name="notification_inactivity_action_dismiss">Przypomnij później</string>
     <string name="notification_inactivity_action_dismiss_forever">Nie przypominaj więcej</string>
-    <string name="appwidget_wallet_balance_title">Saldo Dash</string>
+    <string name="appwidget_wallet_balance_title">Saldo Vpub</string>
 
     <!-- generic buttons -->
     <string name="button_ok">OK</string>

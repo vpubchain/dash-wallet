@@ -167,8 +167,8 @@ public class UpholdClient {
 
     private void createDashCard(final Callback<String> callback, final Callback<UpholdCard> getDashCardCb) {
         Map<String, String> body = new HashMap<>();
-        body.put("label", "Dash Card");
-        body.put("currency", "DASH");
+        body.put("label", "Vpub Card");
+        body.put("currency", "VP");
         service.createCard(body).enqueue(new retrofit2.Callback<UpholdCard>() {
             @Override
             public void onResponse(Call<UpholdCard> call, Response<UpholdCard> response) {
@@ -246,7 +246,7 @@ public class UpholdClient {
         HashMap<String, Object> body = new HashMap<>();
         HashMap<String, String> denomination = new HashMap<>();
         denomination.put("amount", amount);
-        denomination.put("currency", "DASH");
+        denomination.put("currency", "VP");
         body.put("denomination", denomination);
         body.put("destination", address);
 

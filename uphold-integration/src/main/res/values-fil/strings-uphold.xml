@@ -3,17 +3,17 @@
 
     <string name="uphold_account">Uphold na account</string>
     <string name="uphold_buy_dash_activity_title">Bumili/Magbenta sa Uphold</string>
-    <string name="uphold_buy_dash_with_uphold">Bumili ng Dash sa Uphold na account</string>
-    <string name="uphold_buy_dash_button">Bumili ng Dash</string>
+    <string name="uphold_buy_dash_with_uphold">Bumili ng Vpub sa Uphold na account</string>
+    <string name="uphold_buy_dash_button">Bumili ng Vpub</string>
     <string name="uphold_transfer_to_this_wallet_button">Ilipat mula sa Uphold</string>
     <string name="uphold_link_account">I-link ang Uphold account</string>
-    <string name="uphold_account_dash_balance">Ang balanse ng iyong Uphold account Dash ay</string>
-    <string name="uphold_transfer_to_this_wallet">Ilipat ang Dash mula sa iyong Uphold account patungong pitaka</string>
+    <string name="uphold_account_dash_balance">Ang balanse ng iyong Uphold account Vpub ay</string>
+    <string name="uphold_transfer_to_this_wallet">Ilipat ang Vpub mula sa iyong Uphold account patungong pitaka</string>
     <string name="uphold_withdrawal_amount">Halaga</string>
     <string name="uphold_withdrawal_fee">Bayad</string>
     <string name="uphold_withdrawal_total">Kabuuan</string>
-    <string name="uphold_withdrawal_title">Ilipat ang Dash patungong pitaka</string>
-    <string name="uphold_withdrawal_message">Mayroon kang &lt;b>%1$s Dash&lt;/b> sa iyong Uphold na account. Gusto mo bang &lt;u>ilipat ang halaga patungong pitaka&lt;/u>?</string>
+    <string name="uphold_withdrawal_title">Ilipat ang Vpub patungong pitaka</string>
+    <string name="uphold_withdrawal_message">Mayroon kang &lt;b>%1$s Vpub&lt;/b> sa iyong Uphold na account. Gusto mo bang &lt;u>ilipat ang halaga patungong pitaka&lt;/u>?</string>
     <string name="uphold_withdrawal_confirm_title">Kumpirmahin ang transaksyon</string>
     <string name="uphold_withdrawal_confirm_message">Basehan na halaga: %1$f\nFee: %2$f\nTKabuuan: %3$f\n\nGusto mo bang kumpirmahin itong transaksyon?</string>
     <string name="uphold_withdrawal_deduct_fee_disclaimer">Ang bayad ay ibabawas mula sa hiniling na halaga.</string>

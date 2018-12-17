@@ -1127,7 +1127,7 @@ public final class WalletActivity extends AbstractBindServiceActivity
         startActivity(intent);
     }
 
-    //Dash Specific
+    //Vpub Specific
     private void handleDisconnect() {
         getWalletApplication().stopBlockchainService();
         finish();

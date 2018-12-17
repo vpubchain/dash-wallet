@@ -240,11 +240,11 @@
     <string name="preferences_category_labs">實驗室功能</string>
     <string name="preferences_precision_title">顯示單位</string>
     <string name="preferences_precision_summary">改變顯示單位，但不影響計算。</string>
-    <string name="preferences_precision_labels_8">DASH，小數點後8位</string>
-    <string name="preferences_precision_labels_6">DASH，小數點後6位</string>
-    <string name="preferences_precision_labels_4">DASH，小數點後4位</string>
-    <string name="preferences_precision_labels_2_3">mDASH，小數點後2位</string>
-    <string name="preferences_precision_labels_0_6">µDASH，沒有小數位</string>
+    <string name="preferences_precision_labels_8">VP，小數點後8位</string>
+    <string name="preferences_precision_labels_6">VP，小數點後6位</string>
+    <string name="preferences_precision_labels_4">VP，小數點後4位</string>
+    <string name="preferences_precision_labels_2_3">mVP，小數點後2位</string>
+    <string name="preferences_precision_labels_0_6">µVP，沒有小數位</string>
     <string name="preferences_own_name_title">自己的名字</string>
     <string name="preferences_own_name_summary">為自己起名，可在支付請求中顯示。請盡量簡短。</string>
     <string name="preferences_send_coins_autoclose_title">自動關閉發送錢幣對話框</string>

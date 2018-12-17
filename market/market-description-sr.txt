@@ -1,23 +1,23 @@
 Koristite na sopstvenu odgovornost! (Zahtevana verzija Androida - 4 ili viša)
 
-<b>Da vaš Dash bude uvek uz vas, u vašem džepu!</b>Plaćanje vršite tako što na brzinu skenirate QR kod. Kao trgovac, primićete uplate pouzdano i trenutno. Dash novčanik je prva Dash mobilna aplikacija, a takodje i najsigurnija!
+<b>Da vaš Vpub bude uvek uz vas, u vašem džepu!</b>Plaćanje vršite tako što na brzinu skenirate QR kod. Kao trgovac, primićete uplate pouzdano i trenutno. Vpub novčanik je prva Vpub mobilna aplikacija, a takodje i najsigurnija!
 
 <b>KARAKTERISTIKE</b>
 
 • Registracija, web servis ili cloud nisu potrebni! Novčanik je decentralizovan i funkcioniše po peer to peer principu.
-• Prikaz Dash iznosa u DASH, mDASH i µDASH. 
+• Prikaz Vpub iznosa u VP, mVP i µVP.
 • Razmena u i iz nacionalne valute.
-• Slanje i primanje Dash-a preko NFC, QR kodova ili Dash URL-ova.
-• Adresar često korišćenih Dash adresa.
+• Slanje i primanje Vpub-a preko NFC, QR kodova ili Vpub URL-ova.
+• Adresar često korišćenih Vpub adresa.
 • Možete platiti i kada ste offline, preko Bletooth-a.
 • Sistemska obaveštenja za primljene novčiće.
 • Prebacivanje i brisanje sa papirnih novčanika (npr. novčanika korišćenih za "hladno" skladištenje).
-• Widget za aplikaciju koji pokazuje količinu Dash-a.
+• Widget za aplikaciju koji pokazuje količinu Vpub-a.
 
 
 <b>DOPRINESITE PROJEKTU</b>
 
-Dash novčanik je <b>open source</b> i <b>besplatan softver</b>. Licenca: GPLv3
+Vpub novčanik je <b>open source</b> i <b>besplatan softver</b>. Licenca: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Naš source code možete naći na GitHub-u:
@@ -26,7 +26,7 @@ https://github.com/HashEngineering/dash-wallet
 Svi prevodi su organizovani kroz Transifex:
 https://www.transifex.com/dash/dash-wallet/
 
-Više o Dash-u možete naći na
+Više o Vpub-u možete naći na
 https://www.dash.org/
 
 <b>PREPORUKE</b>

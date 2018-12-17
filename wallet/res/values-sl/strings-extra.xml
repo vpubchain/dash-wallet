@@ -12,22 +12,22 @@
 	<string name="export_keys_dialog_title_to_seed">Preveri seznam skrivnih besed za obnovo denarnice</string>
 	<string name="import_keys_dialog_title_from_seed">Ustvarite denarnico iz skrivnih besed</string>
 	<string name="backup_to_seed_wallet_dialog_message">To je seznam skrivnih besed za obnovo denarnice. Celoten niz besed v enakem vrstnem redu zapišite na list papirja in ga skrbno shranite.</string>
-	<string name="backup_wallet_to_seed_dialog_warning">POMEMBNO: Nikomur ne pokažite seznama skrivnih besed za obnovo denarnice, saj lahko ostanete brez Dash kovancev!</string>
+	<string name="backup_wallet_to_seed_dialog_warning">POMEMBNO: Nikomur ne pokažite seznama skrivnih besed za obnovo denarnice, saj lahko ostanete brez Vpub kovancev!</string>
 	<string name="backup_to_seed_wallet_dialog_enter_pin_message">Vaša denarnica je zaščitena s PIN številko. Vpišite PIN številko in izberite \"Poglej\", če želite preveriti seznam skrivnih besed za obnovo denarnice.</string>
     <string name="import_keys_from_seed_dialog_message">Vpišite vaš seznam skrivnih besed za obnovo denarnice.</string>
 	<string name="import_export_keys_dialog_password_phrase">Seznam skrivnih besed za obnovo denarnice.</string>
 	<string name="preferences_report_issue_summary">Opišite težavo in jo po elektronski pošti sporočite razvijalcem aplikacije.</string>
 	<string name="navigation_configuration">Nastavitve</string>
     <string name="button_copy_address">Kopiraj naslov</string>
-	<string name="request_coins_clipboard_address_msg">Dash naslov kopiran v odložišče</string>
+	<string name="request_coins_clipboard_address_msg">Vpub naslov kopiran v odložišče</string>
 	<string name="backup_wallet_to_seed_show_recovery_phrase">Poglej</string>
 	<string name="restore_wallet_from_invalid_seed_warning_message">%s je neveljavna beseda.</string>
 
 	<string name="send_coins_options_fee_category_zero">Brez provizije</string>
 	<string name="send_coins_fragment_hint_fee_zero">Izvedli boste plačilo brez provizije. Čas transakcije se bo v tem primeru podaljšal.</string>
 
-	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikacija %s želi dostop do vašega javnega ključa. Ne skrbite, vaši Dash kovanci bodo ostali na varnem. </string>
-	<string name="wallet_uri_handler_address_request_dialog_msg">Aplikacija %s želi vaš Dash naslov, da vam bo lahko poslala kovance. Želite nadaljevati?</string>
+	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikacija %s želi dostop do vašega javnega ključa. Ne skrbite, vaši Vpub kovanci bodo ostali na varnem. </string>
+	<string name="wallet_uri_handler_address_request_dialog_msg">Aplikacija %s želi vaš Vpub naslov, da vam bo lahko poslala kovance. Želite nadaljevati?</string>
 
 	<string name="wallet_lock_unlock">Odkleni</string>
 	<string name="wallet_lock_unlock_wallet">Odkleni denarnico</string>

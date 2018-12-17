@@ -16,21 +16,21 @@
 	<string name="export_keys_dialog_title_to_seed">View recovery phrase</string>
 	<string name="import_keys_dialog_title_from_seed">Restore from recovery phrase</string>
 	<string name="backup_to_seed_wallet_dialog_message">This is your recovery phrase.  Please write it down.</string>
-	<string name="backup_wallet_to_seed_dialog_warning">DO NOT let anyone see your recovery phrase or they can spend your Dash.</string>
+	<string name="backup_wallet_to_seed_dialog_warning">DO NOT let anyone see your recovery phrase or they can spend your Vpub.</string>
 	<string name="backup_to_seed_wallet_dialog_enter_pin_message">Your wallet is protected by a spending PIN.  Enter your PIN and press Show to view your recovery phrase.</string>
     <string name="import_keys_from_seed_dialog_message">Enter your recovery phrase here.</string>
 	<string name="import_export_keys_dialog_password_phrase">Recovery phrase goes here.</string>
 	<string name="preferences_report_issue_summary">Collect information about your issue and email your report to the developers.</string>
 	<string name="navigation_configuration">Configuration</string>
     <string name="button_copy_address">Copy address</string>
-	<string name="request_coins_clipboard_address_msg">Dash address copied to clipboard</string>
+	<string name="request_coins_clipboard_address_msg">Vpub address copied to clipboard</string>
 	<string name="backup_wallet_to_seed_show_recovery_phrase">Show</string>
 	<string name="restore_wallet_from_invalid_seed_warning_message">%s is an invalid word.</string>
 
 	<string name="send_coins_options_fee_category_zero">No Fee</string>
 	<string name="send_coins_fragment_hint_fee_zero">No fee of will be paid. Use \'no fee\' only if you don\'t care about confirmation time.</string>
 
-	<string name="wallet_uri_handler_public_key_request_dialog_msg">Application %s would like to receive your Master Public Key.  This can be used to keep track of your wallet, this can not be used to move your Dash.</string>
+	<string name="wallet_uri_handler_public_key_request_dialog_msg">Application %s would like to receive your Master Public Key.  This can be used to keep track of your wallet, this can not be used to move your Vpub.</string>
 	<string name="wallet_uri_handler_address_request_dialog_msg">Application %s is requesting an address so it can pay you.  Would you like to authorize this?</string>
 
 	<string name="wallet_lock_unlock">Unlock</string>
@@ -40,7 +40,7 @@
 	<string name="wallet_lock_unlock_dialog_title">Unlock your wallet</string>
 	<string name="wallet_lock_unlock_dialog_message">Your wallet is protected by a spending PIN. Enter your PIN and press Unlock to continue.</string>
 	<string name="wallet_lock_reset_wallet_title">Reset wallet</string>
-	<string name="wallet_lock_reset_wallet_message">Are you sure? Your wallet will be deleted and all your Dash will be lost.\n\nThe only way to recover your Dash is with a backup file or recovery phrase.</string>
+	<string name="wallet_lock_reset_wallet_message">Are you sure? Your wallet will be deleted and all your Vpub will be lost.\n\nThe only way to recover your Vpub is with a backup file or recovery phrase.</string>
 
 	<string name="wallet_lock_wallet_disabled">Wallet disabled</string>
 	<string name="wallet_lock_try_again">Try again in %1$d %2$s</string>

@@ -2,18 +2,18 @@
 <resources>
 
     <string name="uphold_account">Uphold účet</string>
-    <string name="uphold_buy_dash_activity_title">Kúpiť/Predať Dash s Uphold</string>
-    <string name="uphold_buy_dash_with_uphold">Kúpiť Dash s Uphold účtom</string>
-    <string name="uphold_buy_dash_button">Kúpiť Dash</string>
+    <string name="uphold_buy_dash_activity_title">Kúpiť/Predať Vpub s Uphold</string>
+    <string name="uphold_buy_dash_with_uphold">Kúpiť Vpub s Uphold účtom</string>
+    <string name="uphold_buy_dash_button">Kúpiť Vpub</string>
     <string name="uphold_transfer_to_this_wallet_button">Presunúť s Uphold</string>
     <string name="uphold_link_account">Pripojiť Uphold účet</string>
-    <string name="uphold_account_dash_balance">Vaša Dash bilancia na Uphold je</string>
-    <string name="uphold_transfer_to_this_wallet">Presunúť Dash z Uphold účtu do tejto peňaženky</string>
+    <string name="uphold_account_dash_balance">Vaša Vpub bilancia na Uphold je</string>
+    <string name="uphold_transfer_to_this_wallet">Presunúť Vpub z Uphold účtu do tejto peňaženky</string>
     <string name="uphold_withdrawal_amount">Suma</string>
     <string name="uphold_withdrawal_fee">Poplatok</string>
     <string name="uphold_withdrawal_total">Celkovo</string>
-    <string name="uphold_withdrawal_title">Presunúť Dash do tejto peňaženky</string>
-    <string name="uphold_withdrawal_message">Na svojom Uphold účte máte &lt;b>%1$s Dash&lt;/b>. Chcete túto hodnotu &lt;u>preniesť do tejto peňaženky&lt;/u>?</string>
+    <string name="uphold_withdrawal_title">Presunúť Vpub do tejto peňaženky</string>
+    <string name="uphold_withdrawal_message">Na svojom Uphold účte máte &lt;b>%1$s Vpub&lt;/b>. Chcete túto hodnotu &lt;u>preniesť do tejto peňaženky&lt;/u>?</string>
     <string name="uphold_withdrawal_confirm_title">Potvrdiť transakciu</string>
     <string name="uphold_withdrawal_confirm_message">Základná suma: %1$f\nPoplatok: %2$f\nCelkovo: %3$f\n\nChcete túto transakciu potvrdiť?</string>
     <string name="uphold_withdrawal_deduct_fee_disclaimer">Poplatok bude odpočítaný z požadovanej sumy.</string>

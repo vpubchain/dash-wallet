@@ -8,7 +8,7 @@
 			Touchez pour accéder à la liste des monnaies nationales, et touchez une de ces monnaies pour en faire celle par défaut.
 		</p>
 		<p>
-			Le code QR qui contient votre adresse Dash est accessible par le menu de navigation (en haut à gauche) et peut être scanné par quelqu\'un d\'autre.
+			Le code QR qui contient votre adresse Vpub est accessible par le menu de navigation (en haut à gauche) et peut être scanné par quelqu\'un d\'autre.
 			Touchez le code QR pour en voir une version plus grande.
 		</p>
 		<p>
@@ -26,7 +26,7 @@
     <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Dans ce formulaire, vous pouvez demander de l\'argent à une autre personne (qui doit avoir déjà installé le portefeuille Dash).
+			Dans ce formulaire, vous pouvez demander de l\'argent à une autre personne (qui doit avoir déjà installé le portefeuille Vpub).
 		</p>
 		<p>
 			D\'abord, vous pouvez indiquer le montant en dashs à demander.
@@ -46,12 +46,12 @@
 <![CDATA[
 		<p>
 			Vous avez lancé la procédure pour envoyer de l\'argent.
-			Vous êtes arrivé(e) jusqu\'ici soit par l\'écran d\'accueil, soit en cliquant sur une URL Dash dans votre navigateur Internet mobile.
+			Vous êtes arrivé(e) jusqu\'ici soit par l\'écran d\'accueil, soit en cliquant sur une URL Vpub dans votre navigateur Internet mobile.
 		</p>
 		<p>
-			D\'abord, veuillez entrer l\'adresse Dash à laquelle envoyer le paiement.
+			D\'abord, veuillez entrer l\'adresse Vpub à laquelle envoyer le paiement.
 			L\'adresse sera auto-complétée si elle fait partie de celles de votre carnet d\'adresses.
-			Vous pouvez aussi scanner des QR-codes comportant une adresse Dash ou une requête Dash, en appuyant sur le bouton QR.
+			Vous pouvez aussi scanner des QR-codes comportant une adresse Vpub ou une requête Vpub, en appuyant sur le bouton QR.
 		</p>
 		<p>
 			Ensuite, vous pouvez voir combien de dashs vous pouvez actuellement dépenser.
@@ -63,7 +63,7 @@
 		</p>
 		<p>
 			Vous pouvez saisir un paiement tout en étant hors ligne.
-			Il sera envoyé au prochain démarrage du portefeuille Dash.
+			Il sera envoyé au prochain démarrage du portefeuille Vpub.
 			Si vous souhaitez envoyer un paiement le plus rapide possible, assurez-vous d\'avoir une bonne connexion (par ex. celle d\'un WLAN).
 		</p>
 		<p>

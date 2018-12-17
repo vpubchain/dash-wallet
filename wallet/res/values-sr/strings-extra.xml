@@ -16,21 +16,21 @@
 	<string name="export_keys_dialog_title_to_seed">Pogledajte frazu za oporavak</string>
 	<string name="import_keys_dialog_title_from_seed">Vraćanje iz fraze za oporavak</string>
 	<string name="backup_to_seed_wallet_dialog_message">Ovo je vaša fraza za oporavak. Molimo vas da je zapišete.</string>
-	<string name="backup_wallet_to_seed_dialog_warning">NEMOJTE nikome dozvoliti da vidi vašu frazu za oporavak jer će moći da iskoriste vaš Dash.</string>
+	<string name="backup_wallet_to_seed_dialog_warning">NEMOJTE nikome dozvoliti da vidi vašu frazu za oporavak jer će moći da iskoriste vaš Vpub.</string>
 	<string name="backup_to_seed_wallet_dialog_enter_pin_message">Vaš novčanik je zaštićen PIN-om za kupovinu. Unesite vaš PIN i pritisnite Prikaži da biste videli vašu frazu za oporavak.</string>
     <string name="import_keys_from_seed_dialog_message">Unesite vašu frazu za oporavak ovde.</string>
 	<string name="import_export_keys_dialog_password_phrase">Fraza za oporavak se unosi ovde.</string>
 	<string name="preferences_report_issue_summary">Sakupite informacije o vašem problemu i pošaljite vaš izveštaj developerima putem email-a.</string>
 	<string name="navigation_configuration">Konfiguracija</string>
     <string name="button_copy_address">Kopiraj adresu</string>
-	<string name="request_coins_clipboard_address_msg">Dash adresa je kopirana u privremeno skladište </string>
+	<string name="request_coins_clipboard_address_msg">Vpub adresa je kopirana u privremeno skladište </string>
 	<string name="backup_wallet_to_seed_show_recovery_phrase">Prikaži</string>
 	<string name="restore_wallet_from_invalid_seed_warning_message">%s je neispravna reč</string>
 
 	<string name="send_coins_options_fee_category_zero">Bez Provizije</string>
 	<string name="send_coins_fragment_hint_fee_zero">Provizija neće biti plaćena. Koristite \"bez provizije\" ukoliko vam vreme potvrde nije bitno.</string>
 
-	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikacija %s želi da dobije vaš Master Public Key. Ovo može da se iskoristi za praćenje stanja vašeg novčanika ali se ne može iskoristiti za prebacivanje vašeg Dash-a. </string>
+	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikacija %s želi da dobije vaš Master Public Key. Ovo može da se iskoristi za praćenje stanja vašeg novčanika ali se ne može iskoristiti za prebacivanje vašeg Vpub-a. </string>
 	<string name="wallet_uri_handler_address_request_dialog_msg">Aplikacija %s traži adresu kako bi mogla da vam izvrši uplatu. Da li dozvoljavate to?</string>
 
 	<string name="wallet_lock_unlock">Otključaj</string>

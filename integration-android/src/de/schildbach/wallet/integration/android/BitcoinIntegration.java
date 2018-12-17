@@ -258,7 +258,7 @@ public final class BitcoinIntegration {
     }
 
     private static void redirectToDownload(final Context context) {
-        Toast.makeText(context, "No Dash application found.\nPlease install Dash Wallet.", Toast.LENGTH_LONG)
+        Toast.makeText(context, "No Vpub application found.\nPlease install Vpub Wallet.", Toast.LENGTH_LONG)
                 .show();
 
         final Intent marketIntent = new Intent(Intent.ACTION_VIEW,

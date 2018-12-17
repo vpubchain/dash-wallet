@@ -16,21 +16,21 @@
 	<string name="export_keys_dialog_title_to_seed">Lihat frasa pemulihan</string>
 	<string name="import_keys_dialog_title_from_seed">Pulihkan dari frasa pemulihan</string>
 	<string name="backup_to_seed_wallet_dialog_message">Ini adalah frasa pemulihan anda. Tolong Catat.</string>
-	<string name="backup_wallet_to_seed_dialog_warning">JANGAN biarkan siapa pun melihat frasa pemulihan Anda atau mereka dapat menghabiskan Dash Anda.</string>
+	<string name="backup_wallet_to_seed_dialog_warning">JANGAN biarkan siapa pun melihat frasa pemulihan Anda atau mereka dapat menghabiskan Vpub Anda.</string>
 	<string name="backup_to_seed_wallet_dialog_enter_pin_message">Dompet Anda dilindungi oleh PIN. Masukkan PIN Anda dan tekan Tampil untuk melihat frasa pemulihan Anda.</string>
     <string name="import_keys_from_seed_dialog_message">Masukkan frasa pemulihan anda disini.</string>
 	<string name="import_export_keys_dialog_password_phrase">Frasa pemulihan ada di sini.</string>
 	<string name="preferences_report_issue_summary">Kumpulkan informasi masalah Anda dan kirimkan laporan Anda ke pengembang.</string>
 	<string name="navigation_configuration">Konfigurasi</string>
     <string name="button_copy_address">Salin alamat</string>
-	<string name="request_coins_clipboard_address_msg">Alamat Dash disalin</string>
+	<string name="request_coins_clipboard_address_msg">Alamat Vpub disalin</string>
 	<string name="backup_wallet_to_seed_show_recovery_phrase">Tunjukkan</string>
 	<string name="restore_wallet_from_invalid_seed_warning_message">%s adalah kata yang tidak valid. </string>
 
 	<string name="send_coins_options_fee_category_zero">Tanpa Biaya</string>
 	<string name="send_coins_fragment_hint_fee_zero">Tidak ada biaya yang akan dibayarkan. Gunakan \'tanpa biaya\' hanya jika Anda tidak peduli tentang waktu konfirmasi.</string>
 
-	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikasi %s  ingin menerima Master Public Key Anda. Ini dapat digunakan untuk melacak dompet Anda, ini tidak dapat digunakan untuk memindahkan Dash Anda.</string>
+	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikasi %s  ingin menerima Master Public Key Anda. Ini dapat digunakan untuk melacak dompet Anda, ini tidak dapat digunakan untuk memindahkan Vpub Anda.</string>
 	<string name="wallet_uri_handler_address_request_dialog_msg">Aplikasi %s  meminta alamat agar dapat membayar Anda. Apakah Anda ingin mengesahkan ini?</string>
 
 	<string name="wallet_lock_unlock">Terbuka</string>
@@ -40,7 +40,7 @@
 	<string name="wallet_lock_unlock_dialog_title">Buka kunci dompet Anda</string>
 	<string name="wallet_lock_unlock_dialog_message">Dompet Anda dilindungi oleh PIN. Masukkan PIN Anda dan tekan Buka Kunci untuk melanjutkan.</string>
 	<string name="wallet_lock_reset_wallet_title">Atur ulang dompet</string>
-	<string name="wallet_lock_reset_wallet_message">Apakah kamu yakin? Dompet Anda akan dihapus dan semua Dash Anda akan hilang.\n\n Satu-satunya cara untuk memulihkan Dash Anda adalah dengan file cadangan atau frasa pemulihan.</string>
+	<string name="wallet_lock_reset_wallet_message">Apakah kamu yakin? Dompet Anda akan dihapus dan semua Vpub Anda akan hilang.\n\n Satu-satunya cara untuk memulihkan Vpub Anda adalah dengan file cadangan atau frasa pemulihan.</string>
 
 	<string name="wallet_lock_wallet_disabled">Dompet dinonaktifkan</string>
 	<string name="wallet_lock_try_again">Coba lagi dalam %1$d %2$s</string>

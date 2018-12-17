@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>DASH, 8 décimales</item>
-		<item>DASH, 6 décimales</item>
-		<item>DASH, 4 décimales</item>
-		<item>mDASH, 2 décimales</item>
-		<item>µDASH, 0 décimale</item>
+		<item>VP, 8 décimales</item>
+		<item>VP, 6 décimales</item>
+		<item>VP, 4 décimales</item>
+		<item>mVP, 2 décimales</item>
+		<item>µVP, 0 décimale</item>
 	</string-array>
 
 </resources>

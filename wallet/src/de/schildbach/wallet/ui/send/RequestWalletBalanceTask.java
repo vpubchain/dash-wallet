@@ -262,7 +262,7 @@ public final class RequestWalletBalanceTask {
 			onResult(utxos);
 			return true;
 		} else {
-			utxos = requestWalletBalanceFromBlockExplorer("https://explorer.dash.org/chain/Dash/unspent/", UnspentAPI.ABE, address);
+			utxos = requestWalletBalanceFromBlockExplorer("https://explorer.dash.org/chain/Vpub/unspent/", UnspentAPI.ABE, address);
 			if(utxos != null) {
 				onResult(utxos);
 				return true;

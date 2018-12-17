@@ -48,7 +48,7 @@ import de.schildbach.wallet.integration.android.BitcoinIntegration;
 public class SampleActivity extends Activity {
     private static final long AMOUNT = 500000;
     private static final String[] DONATION_ADDRESSES_MAINNET = {
-            "Xdeh9YTLNtci5zSL4DDayRSVTLf299n9jv",  //Hash Engineering donation DASH address
+            "Xdeh9YTLNtci5zSL4DDayRSVTLf299n9jv",  //Hash Engineering donation VP address
             "Xdeh9YTLNtci5zSL4DDayRSVTLf299n9jv"
     };
     private static final String[] DONATION_ADDRESSES_TESTNET = {
@@ -190,7 +190,7 @@ public class SampleActivity extends Activity {
             Intent chooserIntent = Intent.createChooser(walletUriIntent, "Select Wallet");
             startActivityForResult(chooserIntent, requestCode);
         } else {
-            Toast.makeText(this, "Dash Wallet not installed", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Vpub Wallet not installed", Toast.LENGTH_LONG).show();
         }
     }
 

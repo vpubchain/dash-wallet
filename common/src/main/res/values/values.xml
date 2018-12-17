@@ -4,8 +4,8 @@
 	<string name="symbol_to">→</string>
 	<string name="symbol_from">←</string>
 	<string name="symbol_internal">⇄</string>
-	<string name="app_name">Dash Wallet</string>
-	<string name="app_name_short">Dash</string>
+	<string name="app_name">Vpub Wallet</string>
+	<string name="app_name_short">Vpub</string>
 
 	<string-array name="preferences_precision_values">
 		<item>8</item>
@@ -23,10 +23,10 @@
 	</string-array>
 	<string-array name="preferences_block_explorer_values">
 		<item>http://47.104.143.93:3001/insight/</item>
-		<item>http://explorer.dash.org/chain/Dash/</item>
+		<item>http://explorer.dash.org/chain/Vpub/</item>
 	</string-array>
 	<string-array name="preferences_block_explorer_labels">
-		<item>Dash Insight Block Explorer</item>
-		<item>Dash Block Explorer (Official)</item>
+		<item>Vpub Insight Block Explorer</item>
+		<item>Vpub Block Explorer (Official)</item>
 	</string-array>
 </resources>

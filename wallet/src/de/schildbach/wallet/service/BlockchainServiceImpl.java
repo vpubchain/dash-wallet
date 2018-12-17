@@ -751,12 +751,12 @@ public class BlockchainServiceImpl extends android.app.Service implements Blockc
 
         application.saveWallet();
 
-        //Dash Specific
+        //Vpub Specific
 
         //Constants.NETWORK_PARAMETERS.masternodeDB.write(Constants.NETWORK_PARAMETERS.masternodeManager);
         //application.saveMasternodes();
 
-        //Dash Specific
+        //Vpub Specific
 
         if (wakeLock.isHeld()) {
             log.debug("wakelock still held, releasing");

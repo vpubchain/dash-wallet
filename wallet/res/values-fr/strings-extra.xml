@@ -23,14 +23,14 @@
 	<string name="preferences_report_issue_summary">Collectez informations de votre problème et email aux développeurs.</string>
 	<string name="navigation_configuration">Configuration</string>
     <string name="button_copy_address">Copiez addrese</string>
-	<string name="request_coins_clipboard_address_msg">Adresse Dash copiée dans le presse-papiers</string>
+	<string name="request_coins_clipboard_address_msg">Adresse Vpub copiée dans le presse-papiers</string>
 	<string name="backup_wallet_to_seed_show_recovery_phrase">Afficher </string>
 	<string name="restore_wallet_from_invalid_seed_warning_message">%s est un mot invalide.</string>
 
 	<string name="send_coins_options_fee_category_zero">Sans frais</string>
 	<string name="send_coins_fragment_hint_fee_zero">Aucuns frais ne seront payés. Utilisez “Sans frais” si le temps de confirmation ne vous importe pas.</string>
 
-	<string name="wallet_uri_handler_public_key_request_dialog_msg">L\'application %s souhaiterait recevoir votre clé publique maîtresse. Elle peut être utilisée pour suivre l\'évolution de votre portefeuille, mais pas pour déplacer vos fonds Dash.</string>
+	<string name="wallet_uri_handler_public_key_request_dialog_msg">L\'application %s souhaiterait recevoir votre clé publique maîtresse. Elle peut être utilisée pour suivre l\'évolution de votre portefeuille, mais pas pour déplacer vos fonds Vpub.</string>
 	<string name="wallet_uri_handler_address_request_dialog_msg">L\'application %s réclame une adresse pour vous payer. Donnez-vous votre autorisation ?</string>
 
 	<string name="wallet_lock_unlock">Déverrouiller</string>

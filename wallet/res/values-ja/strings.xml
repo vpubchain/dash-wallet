@@ -43,7 +43,7 @@
 	<string name="wallet_options_donate">チップ/寄付</string>
 	<string name="wallet_donate_address_label">Dashウォレットのために寄付をする</string>
 	<string name="wallet_low_storage_dialog_title">内部デバイスのストレージ容量が残りわずかです!</string>
-	<string name="wallet_low_storage_dialog_msg">Dash Walletはトランザクションやブロックを記憶するのに内部ストレージを使用します。もし容量が不足した場合、動作しなくなりあなたのDashが危機にさらされるでしょう!\n\n不要なアプリを削除するためにアプリケーションマネージャを開きますか?</string>
+	<string name="wallet_low_storage_dialog_msg">Vpub Walletはトランザクションやブロックを記憶するのに内部ストレージを使用します。もし容量が不足した場合、動作しなくなりあなたのDashが危機にさらされるでしょう!\n\n不要なアプリを削除するためにアプリケーションマネージャを開きますか?</string>
 	<string name="wallet_low_storage_dialog_button_apps">アプリの管理</string>
 	<string name="wallet_timeskew_dialog_title">時刻の設定を確認してください！</string>
 	<string name="wallet_timeskew_dialog_msg">デバイスの時間が%d分ずれてます。 この問題の為、Dashのやり取りが出来なくなる可能性があります。\n\n正確な時間とタイムゾーンを設定してください。</string>
@@ -236,11 +236,11 @@
 	<string name="preferences_category_labs">ラボ</string>
 	<string name="preferences_precision_title">通貨単位の切り下げと切り上げ</string>
 	<string name="preferences_precision_summary">総額の表示単位。これは計算に影響しません。</string>
-	<string name="preferences_precision_labels_8">DASH、小数点以下8桁</string>
-	<string name="preferences_precision_labels_6">DASH、小数点以下6桁</string>
-	<string name="preferences_precision_labels_4">DASH、小数点以下4桁</string>
-	<string name="preferences_precision_labels_2_3">mDASH、小数点以下2桁</string>
-	<string name="preferences_precision_labels_0_6">µDASH、小数点無し</string>
+	<string name="preferences_precision_labels_8">VP、小数点以下8桁</string>
+	<string name="preferences_precision_labels_6">VP、小数点以下6桁</string>
+	<string name="preferences_precision_labels_4">VP、小数点以下4桁</string>
+	<string name="preferences_precision_labels_2_3">mVP、小数点以下2桁</string>
+	<string name="preferences_precision_labels_0_6">µVP、小数点無し</string>
 	<string name="preferences_own_name_title">自身の名前</string>
 	<string name="preferences_own_name_summary">支払いリクエストに含める、あなた自身の名前。短いものにしてください。</string>
 	<string name="preferences_send_coins_autoclose_title">送金ダイアローグを自動的に閉じる</string>
@@ -302,7 +302,7 @@
 	<string name="notification_peers_connected_msg">%dピアが接続済</string>
 	<string name="notification_inactivity_title">あなたはまだこのデバイスにDashを保有しています！</string>
 	<string name="notification_inactivity_message">保有残高を出金せずにDashウォレットアプリをアインインストールした場合、あなたは %s を失います。</string>
-	<string name="notification_inactivity_message_donate">あなたがコインを必要としない場合は、Dash Walletプロジェクトに寄付することもできます。</string>
+	<string name="notification_inactivity_message_donate">あなたがコインを必要としない場合は、Vpub Walletプロジェクトに寄付することもできます。</string>
 	<string name="notification_inactivity_action_dismiss">後で通知する</string>
 	<string name="notification_inactivity_action_dismiss_forever">今後通知しない</string>
 	<string name="appwidget_wallet_balance_title">Dash残高</string>

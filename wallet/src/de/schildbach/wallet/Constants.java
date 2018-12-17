@@ -150,7 +150,7 @@ public final class Constants {
     public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";
 
     /** Subject line for manually reported issues. */
-    public static final String REPORT_SUBJECT_ISSUE = "Dash Wallet: Reported issue";
+    public static final String REPORT_SUBJECT_ISSUE = "Vpub Wallet: Reported issue";
 
     /** Subject line for crash reports. */
     public static final String REPORT_SUBJECT_CRASH = "Crash report";
@@ -223,7 +223,7 @@ public final class Constants {
 
     private static final Logger log = LoggerFactory.getLogger(Constants.class);
 
-    //Dash Specific
+    //Vpub Specific
     public static long EARLIEST_HD_SEED_CREATION_TIME = 1427610960l;
 
     public static String WALLET_URI_SCHEME = "dashwallet";

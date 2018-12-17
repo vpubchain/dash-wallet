@@ -1,4 +1,4 @@
-Dash Wallet
+Vpub Wallet
 v6.1.2 (Hotfix)
 * Wipe Wallet after 8 incorrect PIN entries.
 * Prevent Brute Forcing PIN
@@ -35,7 +35,7 @@ v5.18.3
 * If DNS seeders fail, use seed list
 
 v5.18.2
-* Update for Dash Core 0.12.3.x network upgrade
+* Update for Vpub Core 0.12.3.x network upgrade
 * Send transactions if at least 1 connected peer
 * Backup Recovery Phrase dialog, change OK to Dismiss
 * Fix file attachment issues with GMail app
@@ -51,7 +51,7 @@ v5.18.1
 v5.18
 * Lock Feature - for security and privacy
 * BIP44 support
-* Use latest DASH price for exchange rates
+* Use latest VP price for exchange rates
 * Allow sending coins from 0-conf transactions
 
 v5.17.6
@@ -84,7 +84,7 @@ v5.17.1
 * Fix crash on exchange rate retrieval (rare)
 
 v5.17.0
-* Dash Core 12.2 support
+* Vpub Core 12.2 support
 * Add backup site for exchange rates.
 * Fixes for Bugs.
 
@@ -102,7 +102,7 @@ v5.14.3
 v5.14.2
 * Fix crashing from recycle view
 * Fix crash on showing keyboard on Restore from recovery seed
-* Replace BTC with DASH on leftovers from last merge.
+* Replace BTC with VP on leftovers from last merge.
 * Fix Italian translation
 * Prevent another crash with numbers entered
 
@@ -121,7 +121,7 @@ v5.14
 v4.65.12.1N
 * Updated Translations
 v4.65.12.1M
-* Updated for Dash Core 12.1
+* Updated for Vpub Core 12.1
 
 v4.65.12E
 * Partial Support for QR Codes requesting InstantSend
@@ -183,7 +183,7 @@ v0.10.2
 * updated for RC2.
 
 v0.1.1
-* updated all icons for Dash
+* updated all icons for Vpub
 
 v0.1.0
 * First version
@@ -213,7 +213,7 @@ v1.0.1.5
 * Fixed menu item doubling on rotate in address screen - langerhans (https://github.com/langerhans/dogecoin-wallet-new)
 * replaced block explorer with blockr.io instead of the apparently dead dgc.cryptocoinexplorer.com
 * Added BTER as a backup for getting exchange rates
-* added mDASH as an exchange rate.
+* added mVP as an exchange rate.
 * added Disconnect feature back in
 * updated to bitcoin-wallet v3.39
 
@@ -816,7 +816,7 @@ v3.41-v3.43
 
 v3.40
 
-* Support for µDASH denomination, for people who are used to low valued currencies.
+* Support for µVP denomination, for people who are used to low valued currencies.
 * Always use BIP70 when sending payments directly via Bluetooth.
 * Small bugfixes.
 
@@ -858,7 +858,7 @@ v3.32
 
 v3.31
 
-* Default denomination has changed to millibitcoin (mDASH).
+* Default denomination has changed to millibitcoin (mVP).
 * Cross-calculated exchange rates for currencies without Bitcoin volume. Thanks to BitcoinAverage.
 * Better handling of errors when sending coins, specifically when funds are exceeded.
 * Labs: Uses BIP70 payment protocol for tap-to-pay and scan-to-pay, if enabled in the settings.
@@ -894,7 +894,7 @@ v3.26
 
 v3.25
 
-* support for mDASH denomination
+* support for mVP denomination
 * also use weighted exchange rates from BitcoinAverage
 * fixed issue with camera autofocus on some Samsung Galaxy devices
 

@@ -1,11 +1,11 @@
-<b>Ha alltid dina bitcoin med dig i fickan!</b> Du gör betalningar genom att snabbt scanna en QR-kod. Handlare får betalningar tillförlitligt och omedelbart. Dash Wallet är den första mobila bitcoin-appen, och utan tvekan den mest säkra!
+<b>Ha alltid dina bitcoin med dig i fickan!</b> Du gör betalningar genom att snabbt scanna en QR-kod. Handlare får betalningar tillförlitligt och omedelbart. Vpub Wallet är den första mobila bitcoin-appen, och utan tvekan den mest säkra!
 
 <b>FUNKTIONER</b>
 
-• Ingen registrering, web- eller molntjänst behövs! Dash Wallet är decentraliserad och peer-to-peer.
-• Visa summa bitcoin i DASH, mDASH eller µDASH.
+• Ingen registrering, web- eller molntjänst behövs! Vpub Wallet är decentraliserad och peer-to-peer.
+• Visa summa bitcoin i VP, mVP eller µVP.
 • Konventering till och från nationell valuta.
-• Skicka och ta emot bitcoin via NFC, QR-koder eller en Dash-URL.
+• Skicka och ta emot bitcoin via NFC, QR-koder eller en Vpub-URL.
 • Adressbok för de Dashadresser man använder ofta.
 • När du är nedkopplad kan du fortfarande betala via Bluetooth.
 • Meddelande om mottagna bitcoin.
@@ -15,7 +15,7 @@
 
 <b>BIDRA</b>
 
-Dash Wallet är <b>öppen mjukvara</b> och <b>fri mjukvara</b>. Licens: GPLv3
+Vpub Wallet är <b>öppen mjukvara</b> och <b>fri mjukvara</b>. Licens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vår källkod finns tillgänglig på GitHub:

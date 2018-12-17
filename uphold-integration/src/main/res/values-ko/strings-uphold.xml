@@ -13,7 +13,7 @@
     <string name="uphold_withdrawal_fee">수수료</string>
     <string name="uphold_withdrawal_total">총계</string>
     <string name="uphold_withdrawal_title">이 지갑으로 대쉬 송금하기</string>
-    <string name="uphold_withdrawal_message">Uphold계정에 &lt;b>%1$s Dash&lt;/b> 의 대쉬가 있습니다. 이 금액을 &lt;u>이 지갑으로 전송하시겠습니까&lt;/u>?</string>
+    <string name="uphold_withdrawal_message">Uphold계정에 &lt;b>%1$s Vpub&lt;/b> 의 대쉬가 있습니다. 이 금액을 &lt;u>이 지갑으로 전송하시겠습니까&lt;/u>?</string>
     <string name="uphold_withdrawal_confirm_title">거래 승인</string>
     <string name="uphold_withdrawal_confirm_message">기본 금액: %1$f\n수수료: %2$f\n총액: %3$f\n\n이 거래를 승인하시겠습니까?</string>
     <string name="uphold_withdrawal_deduct_fee_disclaimer">요청한 금액에서 수수료가 공제됩니다.</string>

@@ -2,18 +2,18 @@
 <resources>
 
     <string name="uphold_account">Uphold аккаунт</string>
-    <string name="uphold_buy_dash_activity_title">Купить/продать Dash с помощью Uphold</string>
-    <string name="uphold_buy_dash_with_uphold">Купить Dash с помощью аккаунта Uphold</string>
-    <string name="uphold_buy_dash_button">Купить Dash</string>
+    <string name="uphold_buy_dash_activity_title">Купить/продать Vpub с помощью Uphold</string>
+    <string name="uphold_buy_dash_with_uphold">Купить Vpub с помощью аккаунта Uphold</string>
+    <string name="uphold_buy_dash_button">Купить Vpub</string>
     <string name="uphold_transfer_to_this_wallet_button">Осуществить перевод из Uphold</string>
     <string name="uphold_link_account">Привязать Uphold аккаунт </string>
-    <string name="uphold_account_dash_balance">Ваш баланс Dash на Uphold составляет</string>
-    <string name="uphold_transfer_to_this_wallet">Перевести Dash из Uphold аккаунта на этот кошелёк</string>
+    <string name="uphold_account_dash_balance">Ваш баланс Vpub на Uphold составляет</string>
+    <string name="uphold_transfer_to_this_wallet">Перевести Vpub из Uphold аккаунта на этот кошелёк</string>
     <string name="uphold_withdrawal_amount">Сумма</string>
     <string name="uphold_withdrawal_fee">Комиссия</string>
     <string name="uphold_withdrawal_total">Итого</string>
-    <string name="uphold_withdrawal_title">Перевести Dash на этот кошелёк</string>
-    <string name="uphold_withdrawal_message">У вас есть &lt;b>%1$s Dash&lt;/b> на Uphold аккаунте. Вы хотите &lt;u>перевести эту сумму на кошелёк&lt;/u>?</string>
+    <string name="uphold_withdrawal_title">Перевести Vpub на этот кошелёк</string>
+    <string name="uphold_withdrawal_message">У вас есть &lt;b>%1$s Vpub&lt;/b> на Uphold аккаунте. Вы хотите &lt;u>перевести эту сумму на кошелёк&lt;/u>?</string>
     <string name="uphold_withdrawal_confirm_title">Подтвердите транзакцию</string>
     <string name="uphold_withdrawal_confirm_message">Сумма: %1$f\nКомиссия: %2$f\nИтого: %3$f\n\nВы хотите подтвердить эту транзакцию?</string>
     <string name="uphold_withdrawal_deduct_fee_disclaimer">Комиссия будет списана из запрашиваемой суммы.</string>

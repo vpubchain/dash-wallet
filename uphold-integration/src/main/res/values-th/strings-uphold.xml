@@ -2,18 +2,18 @@
 <resources>
 
     <string name="uphold_account">บัญชี  Uphold</string>
-    <string name="uphold_buy_dash_activity_title">ซื้อ / ขาย Dash กับ Uphold</string>
-    <string name="uphold_buy_dash_with_uphold">ซื้อ Dash ด้วยบัญชี  Uphold</string>
-    <string name="uphold_buy_dash_button">ซื้อ Dash </string>
+    <string name="uphold_buy_dash_activity_title">ซื้อ / ขาย Vpub กับ Uphold</string>
+    <string name="uphold_buy_dash_with_uphold">ซื้อ Vpub ด้วยบัญชี  Uphold</string>
+    <string name="uphold_buy_dash_button">ซื้อ Vpub </string>
     <string name="uphold_transfer_to_this_wallet_button">โอนจาก Uphold</string>
     <string name="uphold_link_account">เชื่อมต่อกับบัญชี Uphold</string>
-    <string name="uphold_account_dash_balance">จำนวน Dash ในบัญชี Uphold ของคุณคือ </string>
-    <string name="uphold_transfer_to_this_wallet">โอน Dash จากบัญชี Uphold ของคุณไปยัง wallet นี้</string>
+    <string name="uphold_account_dash_balance">จำนวน Vpub ในบัญชี Uphold ของคุณคือ </string>
+    <string name="uphold_transfer_to_this_wallet">โอน Vpub จากบัญชี Uphold ของคุณไปยัง wallet นี้</string>
     <string name="uphold_withdrawal_amount">จำนวน</string>
     <string name="uphold_withdrawal_fee">ค่าธรรมเนียม</string>
     <string name="uphold_withdrawal_total">ทั้งหมด</string>
-    <string name="uphold_withdrawal_title">โอน Dash ไปยัง wallet นี้</string>
-    <string name="uphold_withdrawal_message">คุณมี &lt;b>%1$s Dash&lt;/b> ในบัญชี Uphold  ของคุณ  คุณต้องการโอนจำนวน  &lt;u> ไปยัง wallet นี้ใช่หรือไม่?</string>
+    <string name="uphold_withdrawal_title">โอน Vpub ไปยัง wallet นี้</string>
+    <string name="uphold_withdrawal_message">คุณมี &lt;b>%1$s Vpub&lt;/b> ในบัญชี Uphold  ของคุณ  คุณต้องการโอนจำนวน  &lt;u> ไปยัง wallet นี้ใช่หรือไม่?</string>
     <string name="uphold_withdrawal_confirm_title">ยืนยันการทำรายการ</string>
     <string name="uphold_withdrawal_confirm_message">จำนวนเงิน: %1$f\n  ค่าธรรมเนียม: %2$f \n ทั้งหมด: %3$f \n\n  คุณต้องการยืนยันรายการนี้หรือไม่?</string>
     <string name="uphold_withdrawal_deduct_fee_disclaimer">ค่าธรรมเนียมจะถูกหักออกจากจำนวนที่ต้องการ</string>

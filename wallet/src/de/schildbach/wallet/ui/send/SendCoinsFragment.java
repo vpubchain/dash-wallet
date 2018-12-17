@@ -1420,7 +1420,7 @@ public final class SendCoinsFragment extends Fragment {
                                 + (hintLocalFee != null ? (" (" + amountCalculatorLink.getExchangeRate().coinToFiat(dryrunTransaction.getFee()).currencyCode + " " + hintLocalFee + ")"): "")));
                     } catch (NullPointerException x)
                     {
-                        //only show the fee in DASH
+                        //only show the fee in VP
                         hintView.setText(getString(hintResId, btcFormat.format(dryrunTransaction.getFee())));
                     }
                 } else if (paymentIntent.mayEditAddress() && validatedAddress != null

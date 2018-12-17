@@ -1,23 +1,23 @@
 Riskin size ait olduğunu bilerek kullanın! (Android 4 veya üstünü gerektirir)
 
-<b>Dash'iniz hep sizinle olsun, cebinizde!</b> QR kodunu tarayarak hızlıca ödeme yapabilir. Tacir olarak, ödemelerinizi anında ve güvenilir bir şekilde alabilirsiniz. Dash Wallet ilk mobil Dash uygulamasıdır, ve muhtemelen en güvenilir olanıdır!
+<b>Vpub'iniz hep sizinle olsun, cebinizde!</b> QR kodunu tarayarak hızlıca ödeme yapabilir. Tacir olarak, ödemelerinizi anında ve güvenilir bir şekilde alabilirsiniz. Vpub Wallet ilk mobil Vpub uygulamasıdır, ve muhtemelen en güvenilir olanıdır!
 
 <b>ÖZELLİKLER</b>
 
 • Kayıt, web hizmeti, veya bulut gerektirmez! Bu cüzdan eşler arası ve merkezi olmayan bir cüzdandır.
-• Dash miktarını DASH, mDASH ve µDASH olarak görüntüle.
+• Vpub miktarını VP, mVP ve µVP olarak görüntüle.
 • Ulusal para birimlerine ve ulusal para birimlerinden dönüştürme.
-• NFC, QR kodları veya Dash URL'leri vasıtasıyla Dash gönderimi ve alımı.
-• Sürekli kullanılan Dash adresleri için adres rehberi.
+• NFC, QR kodları veya Vpub URL'leri vasıtasıyla Vpub gönderimi ve alımı.
+• Sürekli kullanılan Vpub adresleri için adres rehberi.
 • Çevrimdışıyken bile, Bluetooth vasıtasıyla ödeme yapabilirsiniz.
 • Gelen paralar için sistem bildirimleri.
 • Kağıt cüzdanların taranması (örn. soğuk depolama için kullanılan)
-• Dash bakiyesi için uygulama widget'i.
+• Vpub bakiyesi için uygulama widget'i.
 
 
 <b>KATKIDA BULUN</b>
 
-Dash Wallet <b>açık kaynak kodlu</b> <b>ücretsiz bir yazılımdır</b>. Lisans: GPLv3
+Vpub Wallet <b>açık kaynak kodlu</b> <b>ücretsiz bir yazılımdır</b>. Lisans: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Kaynak kodumuz GitHub'da mevcuttur:
@@ -26,7 +26,7 @@ https://github.com/HashEngineering/dash-wallet
 Tüm çeviriler Transifex aracılığıyla yönetilmektedir:
 https://www.transifex.com/dash/dash-wallet/
 
-Dash hakkında daha fazlası için
+Vpub hakkında daha fazlası için
 https://www.dash.org/
 
 <b>REFERANSLAR</b>

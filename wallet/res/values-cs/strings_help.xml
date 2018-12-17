@@ -15,7 +15,7 @@
 
 ⇥⇥<p>
 
-⇥⇥⇥QR kód napravo obsahuje vaši Dash adresu, kterou si může oskenovat jiný uživatel .
+⇥⇥⇥QR kód napravo obsahuje vaši Vpub adresu, kterou si může oskenovat jiný uživatel .
 
 ⇥⇥⇥Chcete-li QR kód zvětšit, klepněte na něj .
 
@@ -45,7 +45,7 @@
 	<string name="help_request_coins">
 <![CDATA[
 		<p>
-			Pomocí tohoto dialogu můžete vyžádat Dashy od někoho jiného (kdo by měl také mít nainstalovanou aplikaci Dash Wallet).
+			Pomocí tohoto dialogu můžete vyžádat Dashy od někoho jiného (kdo by měl také mít nainstalovanou aplikaci Vpub Wallet).
 		</p>
 		<p>
 			Nejprve zadejte množství Dashů, které chcete vyžádat.
@@ -53,7 +53,7 @@
 		<p>
 			Potom můžete protistraně nabídnout vygenerovaný QR kód k oskenování,
 			nebo můžete požadavek zaslat pomocí tlačítka sdílet v rychlé nabídce.
-			Druhá strana potom klikne na Dash URL.
+			Druhá strana potom klikne na Vpub URL.
 		</p>
 		<p>
 			V obou případech odesílatel uvidí dialog na zasílání Dashů s předvyplněnými údaji.
@@ -81,7 +81,7 @@
 		</p>
 		<p>
 			Transakce můžete provádět, i když jste právě offline.
-			Budou provedeny při dalším spuštění aplikace Dash Wallet.
+			Budou provedeny při dalším spuštění aplikace Vpub Wallet.
 			Pokud chcete transakci provést co nejrychleji, ujistěte se, že máte rychlé připojení (například jste připojeni pomocí bezdrátové sítě).
 		</p>
 		<p>
@@ -97,12 +97,12 @@
 			Několik slov o bezpečnosti vašich Dashů:
 		</p>
 		<p>
-			Dashy v aplikaci Dash Wallet jsou uloženy ve vašem zařízení.
+			Dashy v aplikaci Vpub Wallet jsou uloženy ve vašem zařízení.
 			<b>Pokud o zařízení přijdete, přijdete i o Dashy v něm.</b>
 			Stejně jako při ztrátě normální peněženky.
 		</p>
 		<p>
-			<b>Před odinstalací aplikace Dash Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
+			<b>Před odinstalací aplikace Vpub Wallet</b> (nebo při odstraňování dat/wipe), <b> si přepošlete zůstatek do jiné peněženky</b>.
 			Jakékoliv zůstavší Bitcony budou nenávratně ztraceny.
 		</p>
 		<p>
@@ -121,7 +121,7 @@
 		</p>
 		<p>
 			Neriskujte zbytečně!
-			<b>V aplikaci Dash Wallet mějte pouze malé částky</b> pro rychlé použití.
+			<b>V aplikaci Vpub Wallet mějte pouze malé částky</b> pro rychlé použití.
 		</p>
 	]]>
 	</string>

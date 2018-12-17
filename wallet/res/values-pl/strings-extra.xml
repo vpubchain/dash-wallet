@@ -23,14 +23,14 @@
 	<string name="preferences_report_issue_summary">Zbierz informacje dotyczące twojego problemu i wyślij je do deweloperów.</string>
 	<string name="navigation_configuration">Konfiguracja</string>
 	<string name="button_copy_address">Kopiuj adres</string>
-	<string name="request_coins_clipboard_address_msg">Adres Dash został skopiowany do schowka</string>
+	<string name="request_coins_clipboard_address_msg">Adres Vpub został skopiowany do schowka</string>
 	<string name="backup_wallet_to_seed_show_recovery_phrase">Pokaż</string>
 	<string name="restore_wallet_from_invalid_seed_warning_message">%s jest nieprawidłowym słowem.</string>
 
 	<string name="send_coins_options_fee_category_zero">Bez opłaty</string>
 	<string name="send_coins_fragment_hint_fee_zero">Żadna opłata nie będzie uiszczona. Używaj tej opcji tylko wtedy kiedy nie zależy ci na czasie potwierdzenia transakcji.</string>
 
-	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikacja %schce otrzymać twój Główny Klucz Publiczny. Informacja ta może być użyta aby śledzić twój portfel, jednakże nie może zostać użyta aby przetransferować twoje monety Dash.</string>
+	<string name="wallet_uri_handler_public_key_request_dialog_msg">Aplikacja %schce otrzymać twój Główny Klucz Publiczny. Informacja ta może być użyta aby śledzić twój portfel, jednakże nie może zostać użyta aby przetransferować twoje monety Vpub.</string>
 	<string name="wallet_uri_handler_address_request_dialog_msg">Aplikacja %s żąda adresu aby móc ci zapłacić. Czy zezwalasz na wysłanie adresu?</string>
 
 	<string name="wallet_lock_unlock">Odblokuj</string>

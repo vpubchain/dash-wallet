@@ -244,7 +244,7 @@ public class ExchangeRatesProvider extends ContentProvider {
 
              if (dashPerBTC == null) {
                  Map<String, ExchangeRate> dashRates = requestExchangeRatesForDashInBTC();
-                 dashPerBTC = Double.parseDouble(dashRates.get("DASH").rate.fiat.toString()) / Double.parseDouble(dashRates.get("DASH").rate.coin.toString());
+                 dashPerBTC = Double.parseDouble(dashRates.get("VP").rate.fiat.toString()) / Double.parseDouble(dashRates.get("VP").rate.coin.toString());
              }
          }
          catch(Exception x)
@@ -371,12 +371,12 @@ public class ExchangeRatesProvider extends ContentProvider {
 
                 final JSONObject averages = head.getJSONObject("averages");
                 try {
-                    final Fiat rate = parseFiatInexact("DASH",  averages.getString("day"));
+                    final Fiat rate = parseFiatInexact("VP",  averages.getString("day"));
                     if (rate.signum() > 0)
-                        rates.put("DASH", new ExchangeRate(
+                        rates.put("VP", new ExchangeRate(
                                 new org.bitcoinj.utils.ExchangeRate(rate), BITCOINAVERAGE_SOURCE));
                 } catch (final IllegalArgumentException x) {
-                    log.warn("problem fetching {} exchange rate from {}: {}", "DASH",
+                    log.warn("problem fetching {} exchange rate from {}: {}", "VP",
                             BITCOINAVERAGE_DASHBTC_URL, x.getMessage());
                 }
 

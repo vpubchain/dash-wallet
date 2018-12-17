@@ -4,11 +4,11 @@
     <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ang nasa kanan sa itaas ng screen ay nagpapakita ng iyong balanse ng Dash at isang napiling pambansang pananalapi.
+			Ang nasa kanan sa itaas ng screen ay nagpapakita ng iyong balanse ng Vpub at isang napiling pambansang pananalapi.
 			I-tap para makapunta sa listahan ng mga pambansang pananalapi at i-tap ang isang sa mga pananalapi para mapili ito bilang kusang pagpipilian.
 		</p>
 		<p>
-			Ang QR code na naglalaman ng iyong Dash address ay maa-accessed mula sa nabigasyon menu (kaliwa sa itaas) at pwedeng gamitin sa pag-scan sa ibang party.
+			Ang QR code na naglalaman ng iyong Vpub address ay maa-accessed mula sa nabigasyon menu (kaliwa sa itaas) at pwedeng gamitin sa pag-scan sa ibang party.
 			I-tap ang QR code para sa mas malaking bersyon nito.
 		</p>
 		<p>
@@ -26,10 +26,10 @@
     <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Gamit itong dayalogo, pwede kang mag-request ng barya sa ibang tao (na nakapaginstall na ng Dash Wallet).
+			Gamit itong dayalogo, pwede kang mag-request ng barya sa ibang tao (na nakapaginstall na ng Vpub Wallet).
 		</p>
 		<p>
-			Una, pwede kang maglagay ng halaga ng Dash na iyong hihilingin.
+			Una, pwede kang maglagay ng halaga ng Vpub na iyong hihilingin.
 		</p>
 		<p>
 			Tapos, maaring gumamit ng generated na QR code na-scan ng magbabayad.
@@ -46,24 +46,24 @@
 <![CDATA[
 		<p>
 			Pinasimulan ang pag-proseso ng pagpadala ng mga barya.
-			Napunta ka dito maaaring dahil sa main screen o pag-click ng Dash URL sa iyong mobile browser.
+			Napunta ka dito maaaring dahil sa main screen o pag-click ng Vpub URL sa iyong mobile browser.
 		</p>
 		<p>
-			Una, pindutin ang Dash address na babayaran.
+			Una, pindutin ang Vpub address na babayaran.
 			Ang address ay awtomatikong kumpletuhin mula sa kilalang mga entry sa iyong adresbuk.
-			Pwede ka rin mag-scan ng QR codes na may mga Dash address o hiling na Dash sa pamamagitan ng QR button.
+			Pwede ka rin mag-scan ng QR codes na may mga Vpub address o hiling na Vpub sa pamamagitan ng QR button.
 		</p>
 		<p>
-			Sunod, makikita mo kung ilang Dash ang maaari mong gastusin sa kasalukuyan.
+			Sunod, makikita mo kung ilang Vpub ang maaari mong gastusin sa kasalukuyan.
 			Kahit anong pagkakaiba sa balanse mula sa main screen ay hindi pa kumpirmado kung kaya\'t hindi pa maaaring gamitin.
 		</p>
 		<p>
-			I-tap ang InstantSend kung intensyong gumawa ng instant na bayad. Ang bayad ay mas mataas (>0.001 DASH).
+			I-tap ang InstantSend kung intensyong gumawa ng instant na bayad. Ang bayad ay mas mataas (>0.001 VP).
 			Panghuli, pumindot ka ng halaga na babayaran at ang spending PIN ay dapat pindutin kung na-set up na ito noon pa. 
 		</p>
 		<p>
 			Pwede kang pumindot ng bayad habang offline.
-			Ito ay maipapadala sa susunod na restart ng Dash Wallet.
+			Ito ay maipapadala sa susunod na restart ng Vpub Wallet.
 			Kung gusto mong maproseso ang bayad sa pinakamabilis na paraan, siguraduhing maayos ang iyong koneksyon (yun ay sa WLAN).
 		</p>
 		<p>
@@ -80,8 +80,8 @@
 			<b>Mga mahalagang tandaan sa panseguridad:</b>
 		</p>
 		<p>
-			Ang Dash ay nakaimbak sa device.
-			<b>Kapag nawala mo ito, mawawala mo rin ang Dash. 
+			Ang Vpub ay nakaimbak sa device.
+			<b>Kapag nawala mo ito, mawawala mo rin ang Vpub.
 		</b>
 		<p>
 			Ibig sabihin kailangan mo <b>i-backup ang iyong pitaka</b>!
@@ -90,12 +90,12 @@
 			Ito ay HD wallet.  Isang backup lamang ang kailangan.
 		</p>
 		<p>
-			<b>Bago i-uninstall</b> (o burahin ang app data/ burahin ang device), <b>ilipat ang iyong Dash sa ibang pitaka</b>.
-			Ang natitirang Dash ay mawawala.
+			<b>Bago i-uninstall</b> (o burahin ang app data/ burahin ang device), <b>ilipat ang iyong Vpub sa ibang pitaka</b>.
+			Ang natitirang Vpub ay mawawala.
 		</p>
 		<p>
 			<b>Ang bayad ay hindi pwedeng ibalik</b>.
-			Kung ang iyong ipinadalang Dash ay napunta sa walang bisa, halos wala ng paraan pa para ito ay mabawi.
+			Kung ang iyong ipinadalang Vpub ay napunta sa walang bisa, halos wala ng paraan pa para ito ay mabawi.
 		</p>
 		<p>
 			<b>Panatalihing ligtas ang mobile device!</b>

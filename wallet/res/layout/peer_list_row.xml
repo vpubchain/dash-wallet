@@ -17,7 +17,7 @@
         android:layout_alignParentStart="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        tools:text="/Dash Core:0.12.3.2/\nprotocol: 70210"
+        tools:text="/Vpub Core:0.12.3.2/\nprotocol: 70210"
         style="@style/MontserratMedium.MG.12"/>
 
     <TextView
