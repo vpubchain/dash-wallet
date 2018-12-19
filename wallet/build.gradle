@@ -76,9 +76,9 @@ ext {
 android {
     signingConfigs {
         config {
-            keyAlias 'wallet_ui'
+            keyAlias 'vpub'
             keyPassword '199188'
-            storeFile file('D:/Android/wallet_ui.jks')
+            storeFile file('D:/Android/vpub.jks')
             storePassword '199188'
         }
     }
