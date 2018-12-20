@@ -96,7 +96,7 @@
             <intent-filter android:label="@string/send_coins_activity_title" >
                 <action android:name="android.intent.action.VIEW" />
 
-                <data android:scheme="dash" />
+                <data android:scheme="vpub" />
                 <data android:scheme="darkcoin" />
 
                 <category android:name="android.intent.category.DEFAULT" />
@@ -105,7 +105,7 @@
             <intent-filter android:label="@string/send_coins_activity_title" >
                 <action android:name="android.nfc.action.NDEF_DISCOVERED" />
 
-                <data android:scheme="dash" />
+                <data android:scheme="vpub" />
                 <data android:scheme="darkcoin" />
 
                 <category android:name="android.intent.category.DEFAULT" />
@@ -165,7 +165,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
 
                 <data android:mimeType="application/x-darkcoin-wallet-backup" />
-                <data android:mimeType="application/x-dash-wallet-backup" />
+                <data android:mimeType="application/x-vpub-wallet-backup" />
             </intent-filter>
         </activity>
         <activity
@@ -196,7 +196,7 @@
             </intent-filter>
 
         </activity>
-        <activity android:name="org.dash.wallet.integration.uphold.ui.UpholdWebViewActivity"
+        <activity android:name="org.vpub.wallet.integration.uphold.ui.UpholdWebViewActivity"
             android:label="@string/uphold_buy_dash_activity_title"
             android:launchMode="singleTop"
             android:theme="@style/My.Theme.ChildActivity"

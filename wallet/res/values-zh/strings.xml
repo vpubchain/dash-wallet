@@ -229,7 +229,7 @@
     <string name="scan_camera_permission_dialog_title">相机授权</string>
     <string name="scan_camera_permission_dialog_message">为了扫描QR嘛，您需要授权相机功能。</string>
     <string name="input_parser_io_error">无法读取数据：\n%s</string>
-    <string name="input_parser_cannot_classify">如法识别输入：\n%s</string>
+    <string name="input_parser_cannot_classify">无法识别输入：\n%s</string>
     <string name="input_parser_invalid_bitcoin_uri">无效的维公币链接：\\n%s</string>
     <string name="input_parser_invalid_address">出现了无效的维公币地址！\\n（混淆了mainnet/testnet？）</string>
     <string name="input_parser_unverifyable_paymentrequest">无法核实付款请求：\n%s</string>

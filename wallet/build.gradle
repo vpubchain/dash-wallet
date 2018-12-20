@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 ext {
-    archivesBaseName = 'dash-wallet'
+    archivesBaseName = 'vpub-wallet'
     androidSupportVersion = '27.1.1'
 }
 repositories {
@@ -70,7 +70,7 @@ dependencies {
 
 
 ext {
-    archivesBaseName = 'dash-wallet'
+    archivesBaseName = 'vpub-wallet'
 }
 
 android {
