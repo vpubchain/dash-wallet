@@ -70,4 +70,7 @@
 	<string name="change_to">改为%s</string>
 	<string name="leave_as">保持%s</string>
 
+	<string name="remind_later">稍后提醒</string>
+	<string name="backup_now">现在备份</string>
+
 </resources>
