@@ -18,9 +18,9 @@
             android:name="de.schildbach.wallet.ui.WalletBalanceToolbarFragment"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_centerVertical="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
             tools:layout="@layout/wallet_balance_toolbar_fragment" />
 
         <ImageView
